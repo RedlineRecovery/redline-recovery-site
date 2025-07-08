@@ -72,22 +72,4 @@ export default function RedlineRecoveryHome() {
             <ul className="text-sm text-left list-disc list-inside">
               <li>Coming Back After Trauma guide</li>
               <li>Physio & return-to-work tracker</li>
-              <li>Support talking to family and crew</li>
-            </ul>
-          </div>
-          <div className="bg-white p-6 rounded-xl shadow border">
-            <h3 className="font-semibold text-lg mb-2">I Don’t Know If I Can Go Back</h3>
-            <ul className="text-sm text-left list-disc list-inside">
-              <li>"What If You Can’t Return?" course</li>
-              <li>Finding purpose beyond the job</li>
-              <li>Mental health, finances, identity</li>
-            </ul>
-          </div>
-        </div>
-        <div className="mt-10">
-          <Button className="text-lg px-6 py-3">Join Redline Recovery</Button>
-        </div>
-      </div>
-    </div>
-  );
-}
+              <li>Su
