@@ -88,4 +88,3 @@ export default function RedlineRecoveryHome() {
     </div>
   );
 }
-replace with fixed canvas code
